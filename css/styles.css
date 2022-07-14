@@ -260,8 +260,6 @@ p {
 }
 .social-list {
   display: flex;
-  padding-left: 32px;
-  padding-right: 32px;
   margin-top: 16px;
   justify-content: center;
   gap: 10px;
